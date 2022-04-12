@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Testing for Vigilear"
-date:   2022-04-16 13:33:00 +0100
+date:   2022-04-16
 categories: blog
 ---
 Testing out some stuff
