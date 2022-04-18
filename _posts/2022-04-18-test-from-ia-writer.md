@@ -2,6 +2,7 @@
 layout: category-post
 title:  "Testing some writing from iA Writer"
 date:   2022-04-22
+categories: blog
 ---
 
 # Test from iA writer
