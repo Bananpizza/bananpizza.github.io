@@ -13,4 +13,4 @@ I've added the posts-folder to iA writer to see all the .md posts. When I'm done
 
 Let's try to add a picture and size it. 
 
-![image](220321NB_6379-29.tif)
+![image](../assets/images/220321NB_6379-29.tif)
