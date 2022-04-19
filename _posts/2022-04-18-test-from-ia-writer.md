@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Testing some writing from iA Writer"
+title:  "Testing some writing from iA Writer!"
 date:   2022-04-22 10:00:00 +0100
 categories: blog
 ---

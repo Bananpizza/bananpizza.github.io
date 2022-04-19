@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Yello Bello!"
+title:  "iA 2.0"
 date:   2022-04-10 20:20:56 +0100
 categories: blog
 ---
