@@ -31,3 +31,7 @@ theme_color: gray
 
 # Build settings
 markdown: kramdown
+
+#Other Settings
+timezone: se
+future: false
